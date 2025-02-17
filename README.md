@@ -4,11 +4,7 @@ Scala application to process, and analyze product sales using Apache Spark.
 
 These include:
 
-1. Aggregations: [Overall](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/AggregationOverall.scala), [Per Category](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/AggregationPerCategory.scala), [Per Date](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/AggregationPerDate.scala), [Per Product](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/AggregationPerProduct.scala)
 
-2. Running Totals: [Overall](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/RunningTotalOverall.scala), [Per Category](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/RunningTotalPerCategory.scala)
-
-3. Rolling Averages: [Overall](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/RollingAverageOverall.scala), [Per Category](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/blob/main/src/main/scala/com/github/lykmapipo/spark/analysis/RollingAveragePerCategory.scala)
 
 
 > 👋 This repository's maintainer is available to hire for Scala/Spark consulting projects. To get a cost estimate, send email to lallyelias87@gmail.com (for projects of any size or complexity).
@@ -47,7 +43,7 @@ spark-submit \
 
 
 ## Data
-- Check [DATA.md](https://github.com/lykmapipo/Scala-Spark-Product-Sales-Analysis/tree/main/DATA.md) for description of `raw data` used and `output data` of each analysis.
+- Check [DATA.md](https://github.com/itsvishal1012) for description of `raw data` used and `output data` of each analysis.
 
 
 ## Contribute
@@ -64,7 +60,7 @@ lallyelias87@gmail.com, or open a GitHub issue
 
 The MIT License (MIT)
 
-Copyright (c) lykmapipo & Contributors
+Copyright (c) vishal & Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
