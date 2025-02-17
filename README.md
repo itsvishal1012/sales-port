@@ -7,7 +7,7 @@ These include:
 
 
 
-> 👋 This repository's maintainer is available to hire for Scala/Spark consulting projects. To get a cost estimate, send email to vishalsaini0328@gmail.com (for projects of any size or complexity).
+> 👋 This repository's maintainer is available to hire for Scala/Spark consulting projects. To get a cost estimate, send email to vishalsaini0328@gmail.com (for projects of any size or complexity)
 
 
 ## Requirements
